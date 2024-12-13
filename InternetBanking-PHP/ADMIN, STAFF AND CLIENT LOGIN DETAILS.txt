@@ -1,0 +1,32 @@
+**Admin Login Details**
+Email	: admin@mail.com
+Password: codeastro.com
+
+
+**Staff Login Details**
+Email	: staff@mail.com
+Password: codeastro.com
+
+ADMIN DETAILS:
+Admin: Email>>admin@mail.com
+	 Passowrd>>codeastro.com
+
+STAFF DETAILS:
+Staff 1: Email>>benardwambua@gmail.com
+	 Passowrd>>Benard
+Staff 2: Email>>flavianomondi@gmail.com
+	 Passowrd>>Flavian
+Staff 3: Email>>mercychebet@gmail.com
+	 Passowrd>>Mercy
+Staff 4: Email>>rebeccanjoki@gmail.com
+	 Passowrd>>Rebecca
+
+CLIENT DETAILS:
+Client 1: Email>>fatmaabdi@gmail.com
+	 Passowrd>>Fatma
+Client 2: Email>>ashleypraise@gmail.com
+	 Passowrd>>Ashley
+Client 3: Email>>victormjomba@gmail.com
+	 Passowrd>>Victor
+Client 4: Email>>davidmwangi@gmail.com
+	 Passowrd>>David
